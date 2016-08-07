@@ -1,0 +1,14 @@
+layout_spectrum: 0.6806101
+color:
+  saturation: 0.6077922
+  brandStrength: 0.2148865
+  lightness: 0.3597403
+  brandColors:
+    - '#E3D2BE'
+    - '#94A1AA'
+    - '#110F14'
+    - '#D6AC8A'
+    - '#9D8265'
+  rhythmicContrast: 0.4402598
+typography_spectrum: 0.2168831
+name: jamesonthemove
